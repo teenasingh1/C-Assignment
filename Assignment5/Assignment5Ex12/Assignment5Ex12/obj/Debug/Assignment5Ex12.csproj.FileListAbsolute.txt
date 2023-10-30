@@ -1,0 +1,16 @@
+C:\Users\teenasingh\Documents\Assignment\Assignment5Ex12\Assignment5Ex12\bin\Debug\Assignment5Ex12.exe.config
+C:\Users\teenasingh\Documents\Assignment\Assignment5Ex12\Assignment5Ex12\bin\Debug\Assignment5Ex12.exe
+C:\Users\teenasingh\Documents\Assignment\Assignment5Ex12\Assignment5Ex12\bin\Debug\Assignment5Ex12.pdb
+C:\Users\teenasingh\Documents\Assignment\Assignment5Ex12\Assignment5Ex12\obj\Debug\Assignment5Ex12.csproj.AssemblyReference.cache
+C:\Users\teenasingh\Documents\Assignment\Assignment5Ex12\Assignment5Ex12\obj\Debug\Assignment5Ex12.csproj.SuggestedBindingRedirects.cache
+C:\Users\teenasingh\Documents\Assignment\Assignment5Ex12\Assignment5Ex12\obj\Debug\Assignment5Ex12.csproj.CoreCompileInputs.cache
+C:\Users\teenasingh\Documents\Assignment\Assignment5Ex12\Assignment5Ex12\obj\Debug\Assignment5Ex12.exe
+C:\Users\teenasingh\Documents\Assignment\Assignment5Ex12\Assignment5Ex12\obj\Debug\Assignment5Ex12.pdb
+C:\Users\teenasingh\Documents\Assignment\teena-singh\C#Assignment\Assignment5\Assignment5Ex12\Assignment5Ex12\bin\Debug\Assignment5Ex12.exe.config
+C:\Users\teenasingh\Documents\Assignment\teena-singh\C#Assignment\Assignment5\Assignment5Ex12\Assignment5Ex12\bin\Debug\Assignment5Ex12.exe
+C:\Users\teenasingh\Documents\Assignment\teena-singh\C#Assignment\Assignment5\Assignment5Ex12\Assignment5Ex12\bin\Debug\Assignment5Ex12.pdb
+C:\Users\teenasingh\Documents\Assignment\teena-singh\C#Assignment\Assignment5\Assignment5Ex12\Assignment5Ex12\obj\Debug\Assignment5Ex12.csproj.AssemblyReference.cache
+C:\Users\teenasingh\Documents\Assignment\teena-singh\C#Assignment\Assignment5\Assignment5Ex12\Assignment5Ex12\obj\Debug\Assignment5Ex12.csproj.SuggestedBindingRedirects.cache
+C:\Users\teenasingh\Documents\Assignment\teena-singh\C#Assignment\Assignment5\Assignment5Ex12\Assignment5Ex12\obj\Debug\Assignment5Ex12.csproj.CoreCompileInputs.cache
+C:\Users\teenasingh\Documents\Assignment\teena-singh\C#Assignment\Assignment5\Assignment5Ex12\Assignment5Ex12\obj\Debug\Assignment5Ex12.exe
+C:\Users\teenasingh\Documents\Assignment\teena-singh\C#Assignment\Assignment5\Assignment5Ex12\Assignment5Ex12\obj\Debug\Assignment5Ex12.pdb

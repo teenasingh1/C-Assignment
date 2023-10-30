@@ -1,0 +1,16 @@
+C:\Users\teenasingh\Documents\Assignment\Assignment4Ex10\Assignment4Ex10\bin\Debug\Assignment4Ex10.exe.config
+C:\Users\teenasingh\Documents\Assignment\Assignment4Ex10\Assignment4Ex10\bin\Debug\Assignment4Ex10.exe
+C:\Users\teenasingh\Documents\Assignment\Assignment4Ex10\Assignment4Ex10\bin\Debug\Assignment4Ex10.pdb
+C:\Users\teenasingh\Documents\Assignment\Assignment4Ex10\Assignment4Ex10\obj\Debug\Assignment4Ex10.csproj.AssemblyReference.cache
+C:\Users\teenasingh\Documents\Assignment\Assignment4Ex10\Assignment4Ex10\obj\Debug\Assignment4Ex10.csproj.SuggestedBindingRedirects.cache
+C:\Users\teenasingh\Documents\Assignment\Assignment4Ex10\Assignment4Ex10\obj\Debug\Assignment4Ex10.csproj.CoreCompileInputs.cache
+C:\Users\teenasingh\Documents\Assignment\Assignment4Ex10\Assignment4Ex10\obj\Debug\Assignment4Ex10.exe
+C:\Users\teenasingh\Documents\Assignment\Assignment4Ex10\Assignment4Ex10\obj\Debug\Assignment4Ex10.pdb
+C:\Users\teenasingh\Documents\Assignment\teena-singh\C#Assignment\Assignment4\Assignment4Ex10\Assignment4Ex10\bin\Debug\Assignment4Ex10.exe.config
+C:\Users\teenasingh\Documents\Assignment\teena-singh\C#Assignment\Assignment4\Assignment4Ex10\Assignment4Ex10\bin\Debug\Assignment4Ex10.exe
+C:\Users\teenasingh\Documents\Assignment\teena-singh\C#Assignment\Assignment4\Assignment4Ex10\Assignment4Ex10\obj\Debug\Assignment4Ex10.csproj.AssemblyReference.cache
+C:\Users\teenasingh\Documents\Assignment\teena-singh\C#Assignment\Assignment4\Assignment4Ex10\Assignment4Ex10\obj\Debug\Assignment4Ex10.csproj.SuggestedBindingRedirects.cache
+C:\Users\teenasingh\Documents\Assignment\teena-singh\C#Assignment\Assignment4\Assignment4Ex10\Assignment4Ex10\obj\Debug\Assignment4Ex10.csproj.CoreCompileInputs.cache
+C:\Users\teenasingh\Documents\Assignment\teena-singh\C#Assignment\Assignment4\Assignment4Ex10\Assignment4Ex10\obj\Debug\Assignment4Ex10.exe
+C:\Users\teenasingh\Documents\Assignment\teena-singh\C#Assignment\Assignment4\Assignment4Ex10\Assignment4Ex10\obj\Debug\Assignment4Ex10.pdb
+C:\Users\teenasingh\Documents\Assignment\teena-singh\C#Assignment\Assignment4\Assignment4Ex10\Assignment4Ex10\bin\Debug\Assignment4Ex10.pdb

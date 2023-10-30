@@ -1,0 +1,16 @@
+C:\Users\teenasingh\Documents\Assignment\C# Assignment\Assignment3\Assignment3Ex6\Assignment3Ex6\bin\Debug\Assignment3Ex6.exe.config
+C:\Users\teenasingh\Documents\Assignment\C# Assignment\Assignment3\Assignment3Ex6\Assignment3Ex6\bin\Debug\Assignment3Ex6.exe
+C:\Users\teenasingh\Documents\Assignment\C# Assignment\Assignment3\Assignment3Ex6\Assignment3Ex6\bin\Debug\Assignment3Ex6.pdb
+C:\Users\teenasingh\Documents\Assignment\C# Assignment\Assignment3\Assignment3Ex6\Assignment3Ex6\obj\Debug\Assignment3Ex6.csproj.AssemblyReference.cache
+C:\Users\teenasingh\Documents\Assignment\C# Assignment\Assignment3\Assignment3Ex6\Assignment3Ex6\obj\Debug\Assignment3Ex6.csproj.SuggestedBindingRedirects.cache
+C:\Users\teenasingh\Documents\Assignment\C# Assignment\Assignment3\Assignment3Ex6\Assignment3Ex6\obj\Debug\Assignment3Ex6.csproj.CoreCompileInputs.cache
+C:\Users\teenasingh\Documents\Assignment\C# Assignment\Assignment3\Assignment3Ex6\Assignment3Ex6\obj\Debug\Assignment3Ex6.exe
+C:\Users\teenasingh\Documents\Assignment\C# Assignment\Assignment3\Assignment3Ex6\Assignment3Ex6\obj\Debug\Assignment3Ex6.pdb
+C:\Users\teenasingh\Documents\Assignment\teena-singh\C#Assignment\Assignment3\Assignment3Ex6\Assignment3Ex6\bin\Debug\Assignment3Ex6.exe.config
+C:\Users\teenasingh\Documents\Assignment\teena-singh\C#Assignment\Assignment3\Assignment3Ex6\Assignment3Ex6\bin\Debug\Assignment3Ex6.exe
+C:\Users\teenasingh\Documents\Assignment\teena-singh\C#Assignment\Assignment3\Assignment3Ex6\Assignment3Ex6\bin\Debug\Assignment3Ex6.pdb
+C:\Users\teenasingh\Documents\Assignment\teena-singh\C#Assignment\Assignment3\Assignment3Ex6\Assignment3Ex6\obj\Debug\Assignment3Ex6.csproj.AssemblyReference.cache
+C:\Users\teenasingh\Documents\Assignment\teena-singh\C#Assignment\Assignment3\Assignment3Ex6\Assignment3Ex6\obj\Debug\Assignment3Ex6.csproj.SuggestedBindingRedirects.cache
+C:\Users\teenasingh\Documents\Assignment\teena-singh\C#Assignment\Assignment3\Assignment3Ex6\Assignment3Ex6\obj\Debug\Assignment3Ex6.csproj.CoreCompileInputs.cache
+C:\Users\teenasingh\Documents\Assignment\teena-singh\C#Assignment\Assignment3\Assignment3Ex6\Assignment3Ex6\obj\Debug\Assignment3Ex6.exe
+C:\Users\teenasingh\Documents\Assignment\teena-singh\C#Assignment\Assignment3\Assignment3Ex6\Assignment3Ex6\obj\Debug\Assignment3Ex6.pdb

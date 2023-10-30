@@ -1,0 +1,8 @@
+C:\Users\teenasingh\Documents\Assignment\Assignment6Ex14\Assignment6Ex14\bin\Debug\Assignment6Ex14.exe.config
+C:\Users\teenasingh\Documents\Assignment\Assignment6Ex14\Assignment6Ex14\bin\Debug\Assignment6Ex14.exe
+C:\Users\teenasingh\Documents\Assignment\Assignment6Ex14\Assignment6Ex14\bin\Debug\Assignment6Ex14.pdb
+C:\Users\teenasingh\Documents\Assignment\Assignment6Ex14\Assignment6Ex14\obj\Debug\Assignment6Ex14.csproj.AssemblyReference.cache
+C:\Users\teenasingh\Documents\Assignment\Assignment6Ex14\Assignment6Ex14\obj\Debug\Assignment6Ex14.csproj.SuggestedBindingRedirects.cache
+C:\Users\teenasingh\Documents\Assignment\Assignment6Ex14\Assignment6Ex14\obj\Debug\Assignment6Ex14.csproj.CoreCompileInputs.cache
+C:\Users\teenasingh\Documents\Assignment\Assignment6Ex14\Assignment6Ex14\obj\Debug\Assignment6Ex14.exe
+C:\Users\teenasingh\Documents\Assignment\Assignment6Ex14\Assignment6Ex14\obj\Debug\Assignment6Ex14.pdb
